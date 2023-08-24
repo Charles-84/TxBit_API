@@ -1,3 +1,6 @@
+⚠️ AVERTISSEMENT ⚠️
+
+Le site web de Txbit a été définitivement fermé le 14 septembre. Ce dépôt est conservé à des fins d'archive et n'est plus fonctionnel avec l'API de Txbit, étant donné que le service n'est plus disponible.
 
 # TxbitAPI
 
